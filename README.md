@@ -38,6 +38,3 @@ Ecommerce Frontend is the client-side of the online store built using Angualr CL
 
 [GitHub Repository](https://github.com/SubhrajyotiChak/ECOMMERCE-WEBSITE-)
 
-## License
-
-Each project may have a different license. Please refer to each project's repository for licensing information.
