@@ -14,13 +14,13 @@ CRUD REST API is a basic course management application that demonstrates how to 
 
 [GitHub Repository](https://github.com/SubhrajyotiChak/CRUD-REST-API-SPRINGBOOT-)
 
-## FilmFrenzy Backend
+## FilmFrenzy Backend(MOVIE BOOKING APPLICATION)
 
 FilmFrenzy Backend is the server-side of a movie information website built using Spring Boot, Hibernate, and MySQL. It provides APIs for creating and retrieving movie information.
 
 [GitHub Repository](https://github.com/SubhrajyotiChak/FilmFrenzy_BackEnd-)
 
-## FilmFrenzy Frontend
+## FilmFrenzy Frontend(MOVIE BOOKING APPLICATION)
 
 FilmFrenzy Frontend is the client-side of the movie information website built using Angular. It allows users to search for and view movie information.
 
